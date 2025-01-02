@@ -23,11 +23,11 @@ body{
     background-color: #e7e7e7;
 }
 .main-container img{
-    height: 245px;
-    width: 245px;
-    padding: 10px;
+    height: 250px;
+    width: 250px;
     border-radius: 20px;
     margin-top: -3px;
+    padding-bottom: 2px;
 }
 .main-container:hover{
     scale: 1.1;
