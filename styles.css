@@ -2,7 +2,6 @@
 *{
     margin: 0px;
     padding: 0px;
-    overflow: hidden;
     font-family: "Inter", serif;
 }
 body{
@@ -66,5 +65,4 @@ header{
     font-weight: bold;
     padding-top: 2rem;
     text-decoration: underline;
-    
 }
