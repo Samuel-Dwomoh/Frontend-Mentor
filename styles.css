@@ -58,3 +58,13 @@ body p{
 h2{
    font-size: 21px;
 }
+header{
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-size: 2rem;
+    font-weight: bold;
+    padding-top: 2rem;
+    text-decoration: underline;
+    
+}
